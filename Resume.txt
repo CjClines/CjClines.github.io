@@ -1,4 +1,4 @@
-<span id="a">Cj@Clines</span>:<span id="b">~</span><span id="c">$</span> cd CjClines/Professional Developer/Designer/<!-- kjsdfhkjdhsfkjdshfkj -->My_Portfolio
+<span id="a">Cj@Clines</span>:<span id="b">~</span><span id="c">$</span> cd "CjClines/Professional Developer/Designer/<!-- kjsdfhkjdhsfkjdshfkj -->My_Portfolio"
 <span id="a">Cj@Clines</span>:<span id="b">~</span><span id="c">$</span> nano <!-- kjsdfhkjdhsfkjdshfkj -->Portfolio.txt<br/><br/>
 Thank you for taking an interest in my portfolio, my name is "<span id="k">Cj Clines</span>". <!-- sjkfhskjf -->
 
