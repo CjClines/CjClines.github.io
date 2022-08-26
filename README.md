@@ -1,2 +1,2 @@
-# EastSleepCode-Repeat.github.io
+# EatSleepCode-Repeat.github.io
 Terminal based portfolio website for ESCR
